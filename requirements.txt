@@ -16,3 +16,4 @@ lxml_html_clean
 sqlmodel
 psycopg2-binary # PostgreSQL adapter
 gunicorn # WSGI server for deployment
+litellm
